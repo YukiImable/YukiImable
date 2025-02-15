@@ -1,7 +1,13 @@
-# Halo semua! 
+# Hello :D
 
-Perkenalkan nama saya **Dimas Adista Perdana**.<br>
+My name is **Dimas Adista Perdana**. I'm currently a **student** at [Universitas Pendidikan Indonesia](https://www.upi.edu/).<br>
 
-Saya seorang **Pelajar** di [Universitas Pendidikan Indonesia](https://www.upi.edu/).<br>
+Reach me on [Linkedin](www.linkedin.com/in/dimas-adista-perdana/) for more information.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/dimas-adista-perdana/) ku ya.
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
